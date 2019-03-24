@@ -1,0 +1,11 @@
+<project>
+   <modelVersion>4.0.0</modelVersion>
+   <artifactId>job4jTrainee</artifactId>
+   <version>2.0</version>
+   <packaging>jar</packaging>
+   <parent>
+       <groupId>ru.govoruchin</groupId>
+       <artifactId>govoruchin</artifactId>
+       <version>2.0</version>
+    </parent>
+</project>
